@@ -1,0 +1,23 @@
+[
+  {
+    "id": "user_1775812988",
+    "username": "Shruti",
+    "email": "shruti22b@gmail.com",
+    "password": "$2b$12$68v6LHqRt5M/T7nJLYLzQuKNdivbyAwTPZIpkyy/eNhSHel.RuXcq",
+    "createdAt": "2026-04-10T14:53:08.260503"
+  },
+  {
+    "id": "user_1775813126",
+    "username": "Varsha",
+    "email": "varsha@gmail.com",
+    "password": "$2b$12$.lAhIjnymwSAYLAVu/PCWuDJdzRm1a8z2roDCHMKGuMQHTcSO3xOy",
+    "createdAt": "2026-04-10T14:55:26.450498"
+  },
+  {
+    "id": "user_1775813827",
+    "username": "Sunita",
+    "email": "sunita@gmail.com",
+    "password": "$2b$12$sR1O167.LS.9gu.ydN1Vcee0U9T3DnFEuFN5B8aCWOVHmEyuO1nc2",
+    "createdAt": "2026-04-10T15:07:07.062028"
+  }
+]
