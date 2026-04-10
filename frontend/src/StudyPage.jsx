@@ -3,7 +3,7 @@ import { useNavigate, useParams, useSearchParams, useOutletContext } from "react
 import { useDeckState } from "./DeckContext";
 import { sm2, isDueToday, shuffle, generateOptions, stopSpeaking, ghostBtn, TimerRing, ProgressBar, Confetti } from "./shared";
 
-const BACKEND      = "http://localhost:5000";
+const BACKEND      = "https://flashcard-ai-o1pt.onrender.com";
 const TIMER_TOTAL  = 15;
 
 // ─── FlashCard ────────────────────────────────────────────────────────────────

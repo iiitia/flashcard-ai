@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { saveUser } from "./auth";
 
-const BACKEND = "http://localhost:5000";
+const BACKEND = "https://flashcard-ai-o1pt.onrender.com";
 
 export default function Register() {
   const navigate             = useNavigate();
