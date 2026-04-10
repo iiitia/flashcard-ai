@@ -3,7 +3,8 @@ import { useNavigate, useOutletContext } from "react-router-dom";
 import { useDeckState } from "./DeckContext";
 import { ghostBtn } from "./shared";
 
-const BACKEND = "http://localhost:5000";
+
+const BACKEND = process.env.REACT_APP_API_URL;
 
 export default function CreatePage() {
   const navigate = useNavigate();
