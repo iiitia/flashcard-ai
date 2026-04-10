@@ -2,7 +2,7 @@
 
 > Turn any PDF or notes into a smart flashcard deck in seconds. Built with React, Flask, and Groq LLaMA.
 
-![FlashForge](https://img.shields.io/badge/status-live-brightgreen) ![React](https://img.shields.io/badge/React-18-61dafb?logo=react) ![Flask](https://img.shields.io/badge/Flask-3.x-black?logo=flask) ![License](https://img.shields.io/badge/license-educational-blue)
+![FlashForge](https://img.shields.io/badge/status-live-brightgreen) ![React](https://img.shields.io/badge/React-18-61dafb?logo=react) ![Flask](https://img.shields.io/badge/Flask-3.x-black?logo=flask)
 
 ---
 
@@ -12,7 +12,7 @@
 |---|---|
 | **Frontend** | [your-app.vercel.app](https://flashcard-ai-iiitias-projects.vercel.app) |
 | **Backend** | [flashcard-ai-o1pt.onrender.com](https://flashcard-ai-o1pt.onrender.com) |
-| **Demo Video** | [Watch walkthrough](https://drive.google.com/file/d/1fuF57d8rw2AKpgl8rSdA99qrsEFxwj46/view?usp=sharing) |
+| **Demo Video** | [Watch walkthrough](https://www.loom.com/share/f2532d6d78484b72b4325bd6ba2281f5) |
 
 ---
 
