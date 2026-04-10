@@ -1,0 +1,42 @@
+[33mcommit b498fc1aa2f0334d9833be3ca4655f87936e88d7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: iiitia <shruti22b@iiitg.ac.in>
+Date:   Fri Apr 10 18:07:11 2026 +0530
+
+    initial commit
+
+ .gitignore                       |   Bin [31m0[m -> [32m14[m bytes
+ backend/.gitignore               |    22 [32m+[m
+ backend/app.py                   |   250 [32m+[m
+ backend/check_models.py          |    10 [32m+[m
+ backend/llm.py                   |    79 [32m+[m
+ backend/pdf_utils.py             |    30 [32m+[m
+ backend/requirements.txt         |   Bin [31m0[m -> [32m2262[m bytes
+ backend/users.json               |    23 [32m+[m
+ frontend/.gitignore              |    23 [32m+[m
+ frontend/README.md               |    70 [32m+[m
+ frontend/package-lock.json       | 17373 [32m+++++++++++++++++++++++++++++++++++++[m
+ frontend/package.json            |    41 [32m+[m
+ frontend/public/favicon.ico      |   Bin [31m0[m -> [32m3870[m bytes
+ frontend/public/index.html       |    43 [32m+[m
+ frontend/public/logo192.png      |   Bin [31m0[m -> [32m5347[m bytes
+ frontend/public/logo512.png      |   Bin [31m0[m -> [32m9664[m bytes
+ frontend/public/manifest.json    |    25 [32m+[m
+ frontend/public/robots.txt       |     3 [32m+[m
+ frontend/src/App.css             |    38 [32m+[m
+ frontend/src/App.js              |    43 [32m+[m
+ frontend/src/App.test.js         |     8 [32m+[m
+ frontend/src/CreatePage.jsx      |   126 [32m+[m
+ frontend/src/DashboardLayout.jsx |   121 [32m+[m
+ frontend/src/DeckContext.jsx     |    37 [32m+[m
+ frontend/src/HomePage.jsx        |   170 [32m+[m
+ frontend/src/Login.jsx           |   104 [32m+[m
+ frontend/src/Register.jsx        |   112 [32m+[m
+ frontend/src/StudyPage.jsx       |   336 [32m+[m
+ frontend/src/auth.js             |    12 [32m+[m
+ frontend/src/index.css           |    13 [32m+[m
+ frontend/src/index.js            |    17 [32m+[m
+ frontend/src/logo.svg            |     1 [32m+[m
+ frontend/src/reportWebVitals.js  |    13 [32m+[m
+ frontend/src/setupTests.js       |     5 [32m+[m
+ frontend/src/shared.jsx          |   194 [32m+[m
+ 35 files changed, 19342 insertions(+)
