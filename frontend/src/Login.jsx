@@ -2,7 +2,8 @@ import { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { saveUser } from "./auth";
 
-const BACKEND = "http://localhost:5000";
+const BACKEND =
+  process.env.REACT_APP_API_URL || "https://flashcard-ai-o1pt.onrender.com";
 
 export default function Login() {
   const navigate          = useNavigate();
